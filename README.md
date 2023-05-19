@@ -12,8 +12,8 @@
 
 Pineapple on Pizza
 
-- [:heavy_check_mark:] Yes 
-- [:nauseated_face:] No
+- [[:heavy_check_mark:] Yes 
+- [[:nauseated_face:] No
 -----------------
 ### Hobbies
  * Myths & Legends
