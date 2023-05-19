@@ -12,8 +12,8 @@
 
 Pineapple on Pizza
 
-- [[:heavy_check_mark:] Yes 
-- [[:nauseated_face:] No
+- [x] Yes 
+- [ ] No
 -----------------
 ### Hobbies
  * Myths & Legends
@@ -37,6 +37,6 @@ I'm methodic and I like to finish a project, No matter how difficult the job.
 
 
 
-<< [Previous]() || [Steeve Zych](https://github.com/steeve0403/mardown-challenge#steeve-zych) || [Next](https://github.com/timcharlier6/markdown-challenge#tldr) >>
+<< [Previous](https://github.com/Sarah2511/markdown-challenge#markdown-challenge) || [Steeve Zych](https://github.com/steeve0403/mardown-challenge#steeve-zych) || [Next](https://github.com/timcharlier6/markdown-challenge#tldr) >>
 
 
