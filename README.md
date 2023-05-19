@@ -26,8 +26,17 @@ Pineapple on Pizza
     * Dragon Ball
     * Judge
 
-### You can always count on me when i'm here.
+#### You can always count on me when i'm here.
+
+I'm methodic and I like to finish a project, No matter how difficult the job.
+
+##### “This is the story of a sandwich walking into a pub … 
+##### The waitress says: Sorry we don’t serve food in here”.
+
+ Go to the Algarve, Portugal, to enjoy the sun and the heat and finally end up with water as cold as the North Sea.
 
 
+
+|| [Next](https://github.com/timcharlier6/markdown-challenge#tldr) >>
 
 
