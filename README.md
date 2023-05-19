@@ -37,6 +37,6 @@ I'm methodic and I like to finish a project, No matter how difficult the job.
 
 
 
-|| [Next](https://github.com/timcharlier6/markdown-challenge#tldr) >>
+<< [Previous]() || [Steeve Zych](https://github.com/steeve0403/mardown-challenge#steeve-zych) || [Next](https://github.com/timcharlier6/markdown-challenge#tldr) >>
 
 
